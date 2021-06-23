@@ -1,4 +1,4 @@
-# SignalRNotifier
+# SignalR HelloWorld
 Project for studies purposes
 
 The project consists on two applications:
