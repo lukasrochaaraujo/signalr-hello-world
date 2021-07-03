@@ -1,5 +1,5 @@
-# SignalRNotifier
-Project from studies purposes
+# SignalR HelloWorld
+Project for studies purposes
 
 The project consists on two applications:
 * SignalRMaster: The server that send event notifications for subscribers
